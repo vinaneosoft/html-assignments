@@ -1,0 +1,30 @@
+18:07:26	 From Raj Pawar : we need to write useState for this, because react doesnt track normal changes in normal   variables
+18:07:26	 From karan bisen : you have to useffect or useState hook
+18:16:27	 From Kalpesh : Can we use getElementById in function ? and rander the message in the tag.
+18:19:16	 From Raj Pawar : should there be const instead of let  at the initialization of useState?
+18:24:17	 From Yashashree Waghade : done
+18:24:17	 From Shreya Jangam : done
+18:24:20	 From Ved Saraf : Done
+18:24:36	 From karan bisen : done
+18:25:31	 From Kalpesh : done
+18:25:50	 From Sonu verma : done
+18:32:41	 From Shreya Jangam : yes
+18:32:42	 From Yashashree Waghade : yes
+18:32:43	 From Ashish : yes
+18:32:49	 From Mandar Jambhekar : yes
+18:33:12	 From Kalpesh : yes
+18:33:18	 From karan bisen : yes
+18:33:18	 From Ved Saraf : Yes
+18:33:22	 From Ashish : yes
+18:34:19	 From Sahil Rajendra Gaonkar : arrow functions
+18:42:02	 From Yashashree Waghade : done
+18:42:15	 From Ashish : yes
+18:42:15	 From Ved Saraf : YEs
+18:42:16	 From Yashashree Waghade : Yes
+18:42:18	 From Kalpesh : yes,
+18:42:20	 From Pradeepta Dash : Yes
+18:42:20	 From Shreya Jangam : yes
+18:42:22	 From Sahil Rajendra Gaonkar : yes ma'am
+18:42:23	 From Mandar Jambhekar : yes
+18:42:28	 From karan bisen : YES
+18:44:33	 From karan bisen : yhank you
